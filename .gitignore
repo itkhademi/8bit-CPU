@@ -1,0 +1,6 @@
+/dist
+/cpu
+/assembler
+*.out
+*.txt
+/cpu_state.txt
